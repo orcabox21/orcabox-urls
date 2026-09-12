@@ -24,9 +24,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://multimovies.makeup",
+    "url": "https://multimovies.casa",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "MultiMovies",
     "internalName": "MultiMovies",
     "type": "builtin"
@@ -104,9 +104,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://extramovies.miami/cgi-sys/suspendedpage.cgi",
-    "status": 0,
-    "version": 1,
+    "url": "https://extramovies.actor",
+    "status": 1,
+    "version": 2,
     "name": "extramovies",
     "internalName": "extramovies",
     "type": "builtin"
@@ -200,9 +200,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://cinevood.love",
+    "url": "https://cinevood.bingo",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "cinevood",
     "internalName": "cinevood",
     "type": "builtin"
