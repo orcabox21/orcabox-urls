@@ -16,7 +16,8 @@ commits the change back to `main`.
     "status": 1,
     "version": 2,
     "name": "HDHUB4u",
-    "internalName": "HDHUB4u"
+    "internalName": "HDHUB4u",
+    "type": "builtin"
   }
 ]
 ```
@@ -28,6 +29,12 @@ commits the change back to `main`.
 | `version`      | incremented every time `url` changes — clients use it to bust caches |
 | `name`         | display name                                                    |
 | `internalName` | stable key the app looks up (never rename it)                   |
+| `type`         | `builtin` shipped with the app, `custom` added later by hand    |
+
+`type` is descriptive only — the checker maintains `custom` entries exactly like
+`builtin` ones. It exists so the app can label or group them, and so a hand-added
+source is never mistaken for one of the originals. Omitting it on a new entry is
+allowed; it is written back as `builtin`.
 
 ## Raw endpoint
 

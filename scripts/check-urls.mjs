@@ -201,12 +201,17 @@ await mapLimit(entries, CONCURRENCY, async (entry) => {
 });
 
 // Re-emit with a stable key order so diffs stay readable.
+//
+// `type` defaults to 'builtin' rather than being dropped: an entry added by hand
+// without it must not silently lose the tag on the next run. Anything checked in
+// from the original seed is builtin by definition, so that default is safe.
 const normalized = entries.map((e) => ({
   url: e.url,
   status: e.status,
   version: e.version,
   name: e.name,
   internalName: e.internalName,
+  type: e.type === 'custom' ? 'custom' : 'builtin',
 }));
 
 console.log(`\n${changes.length} change(s)`);

@@ -4,356 +4,407 @@
     "status": 1,
     "version": 1,
     "name": "moviesdrive",
-    "internalName": "moviesdrive"
+    "internalName": "moviesdrive",
+    "type": "builtin"
   },
   {
     "url": "https://new5.hdhub4u.cl",
     "status": 1,
     "version": 1,
     "name": "HDHUB4u",
-    "internalName": "HDHUB4u"
+    "internalName": "HDHUB4u",
+    "type": "builtin"
   },
   {
     "url": "https://4khdhub.one",
     "status": 1,
     "version": 1,
     "name": "4khdhub",
-    "internalName": "4khdhub"
+    "internalName": "4khdhub",
+    "type": "builtin"
   },
   {
     "url": "https://multimovies.makeup",
     "status": 1,
     "version": 1,
     "name": "MultiMovies",
-    "internalName": "MultiMovies"
+    "internalName": "MultiMovies",
+    "type": "builtin"
   },
   {
     "url": "https://bollyflix.af",
     "status": 1,
     "version": 1,
     "name": "bollyflix",
-    "internalName": "bollyflix"
+    "internalName": "bollyflix",
+    "type": "builtin"
   },
   {
     "url": "https://uhdmovies.autos",
     "status": 1,
     "version": 1,
     "name": "UHDMovies",
-    "internalName": "UHDMovies"
+    "internalName": "UHDMovies",
+    "type": "builtin"
   },
   {
     "url": "https://moviesmod.army",
     "status": 1,
     "version": 1,
     "name": "moviesmod",
-    "internalName": "moviesmod"
+    "internalName": "moviesmod",
+    "type": "builtin"
   },
   {
     "url": "https://moviesleech.bar",
     "status": 1,
     "version": 1,
     "name": "topMovies",
-    "internalName": "topMovies"
+    "internalName": "topMovies",
+    "type": "builtin"
   },
   {
     "url": "https://hdmovie2a.sbs",
     "status": 1,
     "version": 1,
     "name": "hdmovie2",
-    "internalName": "hdmovie2"
+    "internalName": "hdmovie2",
+    "type": "builtin"
   },
   {
     "url": "https://new2.vegamovies.futbol",
     "status": 1,
     "version": 2,
     "name": "vegamovies",
-    "internalName": "vegamovies"
+    "internalName": "vegamovies",
+    "type": "builtin"
   },
   {
     "url": "https://new2.rogmovies.click",
     "status": 1,
     "version": 1,
     "name": "rogmovies",
-    "internalName": "rogmovies"
+    "internalName": "rogmovies",
+    "type": "builtin"
   },
   {
     "url": "https://luxmovies1.shop",
     "status": 0,
     "version": 1,
     "name": "luxmovies",
-    "internalName": "luxmovies"
+    "internalName": "luxmovies",
+    "type": "builtin"
   },
   {
     "url": "https://123movies9.run",
     "status": 1,
     "version": 1,
     "name": "movierulzhd",
-    "internalName": "movierulzhd"
+    "internalName": "movierulzhd",
+    "type": "builtin"
   },
   {
     "url": "https://extramovies.miami/cgi-sys/suspendedpage.cgi",
     "status": 0,
     "version": 1,
     "name": "extramovies",
-    "internalName": "extramovies"
+    "internalName": "extramovies",
+    "type": "builtin"
   },
   {
     "url": "https://banglaplex.biz",
     "status": 1,
     "version": 2,
     "name": "banglaplex",
-    "internalName": "banglaplex"
+    "internalName": "banglaplex",
+    "type": "builtin"
   },
   {
     "url": "https://toon-stream.site",
     "status": 1,
     "version": 1,
     "name": "toonstream",
-    "internalName": "toonstream"
+    "internalName": "toonstream",
+    "type": "builtin"
   },
   {
     "url": "https://telugumv.net",
     "status": 1,
     "version": 1,
     "name": "telugumv",
-    "internalName": "telugumv"
+    "internalName": "telugumv",
+    "type": "builtin"
   },
   {
     "url": "https://filmycab.us",
     "status": 1,
     "version": 1,
     "name": "filmycab",
-    "internalName": "filmycab"
+    "internalName": "filmycab",
+    "type": "builtin"
   },
   {
     "url": "https://tellyhd.quest",
     "status": 1,
     "version": 2,
     "name": "tellyhd",
-    "internalName": "tellyhd"
+    "internalName": "tellyhd",
+    "type": "builtin"
   },
   {
     "url": "https://filmyfly.io",
     "status": 1,
     "version": 1,
     "name": "filmyfiy",
-    "internalName": "filmyfiy"
+    "internalName": "filmyfiy",
+    "type": "builtin"
   },
   {
     "url": "https://hindmovie.fit",
     "status": 1,
     "version": 1,
     "name": "hindmoviez",
-    "internalName": "hindmoviez"
+    "internalName": "hindmoviez",
+    "type": "builtin"
   },
   {
     "url": "https://www.1tamilblasters.tech",
     "status": 1,
     "version": 1,
     "name": "tamilblasters",
-    "internalName": "tamilblasters"
+    "internalName": "tamilblasters",
+    "type": "builtin"
   },
   {
     "url": "https://hubcloud.cx",
     "status": 1,
     "version": 1,
     "name": "hubcloud",
-    "internalName": "hubcloud"
+    "internalName": "hubcloud",
+    "type": "builtin"
   },
   {
     "url": "https://movienestbd.best",
     "status": 1,
     "version": 2,
     "name": "movienestbd",
-    "internalName": "movienestbd"
+    "internalName": "movienestbd",
+    "type": "builtin"
   },
   {
-    "url": "https://new5.movies4u.clinic",
-    "status": 0,
-    "version": 1,
+    "url": "https://movies4u.kg",
+    "status": 1,
+    "version": 2,
     "name": "movies4u",
-    "internalName": "movies4u"
+    "internalName": "movies4u",
+    "type": "builtin"
   },
   {
     "url": "https://cinevood.love",
     "status": 1,
     "version": 1,
     "name": "cinevood",
-    "internalName": "cinevood"
+    "internalName": "cinevood",
+    "type": "builtin"
   },
   {
     "url": "https://dudefilms.garden",
     "status": 1,
     "version": 1,
     "name": "dudefilms",
-    "internalName": "dudefilms"
+    "internalName": "dudefilms",
+    "type": "builtin"
   },
   {
     "url": "https://fibwatch.art",
     "status": 1,
     "version": 1,
     "name": "fibwatch",
-    "internalName": "fibwatch"
+    "internalName": "fibwatch",
+    "type": "builtin"
   },
   {
     "url": "https://fibtoon.top",
     "status": 1,
     "version": 1,
     "name": "fibtoon",
-    "internalName": "fibtoon"
+    "internalName": "fibtoon",
+    "type": "builtin"
   },
   {
     "url": "https://fibdrama.top",
     "status": 1,
     "version": 1,
     "name": "fibdrama",
-    "internalName": "fibdrama"
+    "internalName": "fibdrama",
+    "type": "builtin"
   },
   {
     "url": "https://xprimehub.pics",
     "status": 1,
     "version": 1,
     "name": "xprimehub",
-    "internalName": "xprimehub"
+    "internalName": "xprimehub",
+    "type": "builtin"
   },
   {
     "url": "https://ww4.m4ufree.lat",
     "status": 1,
     "version": 1,
     "name": "m4ufree",
-    "internalName": "m4ufree"
+    "internalName": "m4ufree",
+    "type": "builtin"
   },
   {
     "url": "https://pencurimoviesubmalay26.site",
     "status": 1,
     "version": 1,
     "name": "pencurimoviesubmalay",
-    "internalName": "pencurimoviesubmalay"
+    "internalName": "pencurimoviesubmalay",
+    "type": "builtin"
   },
   {
     "url": "https://new2.zinkmovies.mobi",
     "status": 1,
     "version": 1,
     "name": "zinkmovies",
-    "internalName": "zinkmovies"
+    "internalName": "zinkmovies",
+    "type": "builtin"
   },
   {
     "url": "https://cinefreak.nl",
     "status": 1,
     "version": 1,
     "name": "cinefreak",
-    "internalName": "cinefreak"
+    "internalName": "cinefreak",
+    "type": "builtin"
   },
   {
     "url": "https://coflix.esq",
     "status": 0,
     "version": 1,
     "name": "coflix",
-    "internalName": "coflix"
+    "internalName": "coflix",
+    "type": "builtin"
   },
   {
     "url": "https://yify-yify.com",
     "status": 1,
     "version": 2,
     "name": "yify-official",
-    "internalName": "yify-official"
+    "internalName": "yify-official",
+    "type": "builtin"
   },
   {
     "url": "https://uflix.cc",
     "status": 1,
     "version": 1,
     "name": "uflix",
-    "internalName": "uflix"
+    "internalName": "uflix",
+    "type": "builtin"
   },
   {
     "url": "https://www4.thepiratebay3.co",
     "status": 1,
     "version": 1,
     "name": "thepiratebay3",
-    "internalName": "thepiratebay3"
+    "internalName": "thepiratebay3",
+    "type": "builtin"
   },
   {
     "url": "https://1desiremovies.cymru",
     "status": 1,
     "version": 2,
     "name": "1desiremovies",
-    "internalName": "1desiremovies"
+    "internalName": "1desiremovies",
+    "type": "builtin"
   },
   {
     "url": "https://mapple.rip",
     "status": 1,
     "version": 1,
     "name": "mapple",
-    "internalName": "mapple"
+    "internalName": "mapple",
+    "type": "builtin"
   },
   {
     "url": "https://www.1flex.org",
     "status": 1,
     "version": 1,
     "name": "1flex",
-    "internalName": "1flex"
+    "internalName": "1flex",
+    "type": "builtin"
   },
   {
     "url": "https://vegamoviess.foo",
     "status": 1,
     "version": 2,
     "name": "vegamoviess",
-    "internalName": "vegamoviess"
+    "internalName": "vegamoviess",
+    "type": "builtin"
   },
   {
     "url": "https://deepwebnest.com",
     "status": 1,
     "version": 1,
     "name": "deepwebnest",
-    "internalName": "deepwebnest"
+    "internalName": "deepwebnest",
+    "type": "builtin"
   },
   {
     "url": "https://movie-box.co",
     "status": 1,
     "version": 1,
     "name": "movie-box",
-    "internalName": "movie-box"
+    "internalName": "movie-box",
+    "type": "builtin"
   },
   {
     "url": "https://net27.cc",
     "status": 1,
     "version": 1,
     "name": "net27",
-    "internalName": "net27"
+    "internalName": "net27",
+    "type": "builtin"
   },
   {
     "url": "https://www.mp4moviez.moi",
     "status": 1,
     "version": 2,
     "name": "mp4moviez",
-    "internalName": "mp4moviez"
+    "internalName": "mp4moviez",
+    "type": "builtin"
   },
   {
     "url": "https://www.filmywap.bet",
     "status": 1,
     "version": 2,
     "name": "filmywap",
-    "internalName": "filmywap"
+    "internalName": "filmywap",
+    "type": "builtin"
   },
   {
     "url": "https://www.coolmoviez.codes",
     "status": 1,
     "version": 2,
     "name": "coolmoviez",
-    "internalName": "coolmoviez"
+    "internalName": "coolmoviez",
+    "type": "builtin"
   },
   {
     "url": "https://animedekho.app",
     "status": 1,
     "version": 1,
     "name": "animedekho",
-    "internalName": "animedekho"
+    "internalName": "animedekho",
+    "type": "builtin"
   },
   {
     "url": "https://movibox.net",
     "status": 1,
     "version": 1,
     "name": "movibox",
-    "internalName": "movibox"
+    "internalName": "movibox",
+    "type": "builtin"
   }
 ]
