@@ -19,6 +19,10 @@ jobs:
     timeout-minutes: 20
     steps:
       - uses: actions/checkout@v5
+        with:
+          # Full history: the commit step rebases before pushing, which is
+          # unreliable on the depth-1 clone checkout makes by default.
+          fetch-depth: 0
 
       - uses: actions/setup-node@v5
         with:
@@ -30,11 +34,22 @@ jobs:
 
       - name: Commit updated urls.json
         if: steps.check.outputs.changed == 'true'
+        # SUMMARY arrives via env, not `${{ }}` interpolation: it carries
+        # hostnames harvested from third-party redirects, and interpolating
+        # those straight into the shell is the standard Actions injection hole.
+        env:
+          SUMMARY: ${{ steps.check.outputs.summary }}
         run: |
+          set -euo pipefail
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add urls.json
-          git commit -m "chore: update provider URLs
-
-          ${{ steps.check.outputs.summary }}"
-          git push
+          if git diff --cached --quiet; then
+            echo "No staged change to urls.json; nothing to commit."
+            exit 0
+          fi
+          git commit -m "chore: update provider URLs" -m "$SUMMARY"
+          # Someone may have edited urls.json on github.com while this ran;
+          # rebase rather than fail the job and lose the update.
+          git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"

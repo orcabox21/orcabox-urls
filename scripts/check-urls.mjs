@@ -137,22 +137,88 @@ async function probe(url) {
   return { verdict: 'dead', finalUrl: url, status: 0, error: String(lastError) };
 }
 
+/**
+ * Runs `fn` over `items` with bounded concurrency. A throw from one item is
+ * reported and swallowed: one unexpected failure must not abort the other 50
+ * providers and lose a whole day's update.
+ */
 async function mapLimit(items, limit, fn) {
   let next = 0;
   await Promise.all(
     Array.from({ length: Math.min(limit, items.length) }, async () => {
-      while (next < items.length) await fn(items[next++]);
+      while (next < items.length) {
+        const item = items[next++];
+        try {
+          await fn(item);
+        } catch (err) {
+          console.log(`! ${item?.internalName ?? 'unknown'} check failed: ${err.message}`);
+        }
+      }
     }),
   );
 }
 
-const entries = JSON.parse(await readFile(FILE, 'utf8'));
-if (!Array.isArray(entries)) throw new Error('urls.json must be a JSON array');
+let entries;
+try {
+  entries = JSON.parse(await readFile(FILE, 'utf8'));
+} catch (err) {
+  // Hand edits are expected, so a trailing comma or a stray quote must fail
+  // with something a human can act on rather than a bare SyntaxError.
+  console.error(`urls.json is not valid JSON: ${err.message}`);
+  console.error('A trailing comma after the last entry is the usual cause.');
+  process.exit(1);
+}
+if (!Array.isArray(entries)) {
+  console.error('urls.json must be a JSON array of provider objects.');
+  process.exit(1);
+}
+
+// Entries that cannot be probed are reported and skipped. Failing the whole run
+// over one bad hand edit would throw away every other provider's result.
+const skipped = [];
+const seenNames = new Set();
+const checkable = [];
+for (const [i, e] of entries.entries()) {
+  const label = e?.internalName ?? e?.name ?? `entry #${i}`;
+  if (!e || typeof e !== 'object' || Array.isArray(e)) {
+    skipped.push(`entry #${i} is not an object`);
+    continue;
+  }
+  if (typeof e.internalName !== 'string' || !e.internalName.trim()) {
+    skipped.push(`${label}: missing or empty internalName`);
+    continue;
+  }
+  if (typeof e.url !== 'string' || !/^https?:\/\//i.test(e.url)) {
+    skipped.push(`${label}: url must start with http:// or https://`);
+    continue;
+  }
+  try {
+    new URL(e.url);
+  } catch {
+    skipped.push(`${label}: unparseable url ${e.url}`);
+    continue;
+  }
+  const key = e.internalName.toLowerCase();
+  if (seenNames.has(key)) {
+    // Not fatal, but the app looks providers up by this key, so a duplicate
+    // means one of the two is unreachable from the app no matter what we do.
+    skipped.push(`${label}: duplicate internalName (the app can only reach one)`);
+    continue;
+  }
+  seenNames.add(key);
+  checkable.push(e);
+}
+
+if (skipped.length) {
+  console.log(`Skipping ${skipped.length} unusable entr(ies):`);
+  for (const s of skipped) console.log(`  ! ${s}`);
+  console.log('');
+}
 
 const changes = [];
 const PAD = 24;
 
-await mapLimit(entries, CONCURRENCY, async (entry) => {
+await mapLimit(checkable, CONCURRENCY, async (entry) => {
   const current = entry.url;
   const { verdict, finalUrl, status } = await probe(current);
 
@@ -205,14 +271,22 @@ await mapLimit(entries, CONCURRENCY, async (entry) => {
 // `type` defaults to 'builtin' rather than being dropped: an entry added by hand
 // without it must not silently lose the tag on the next run. Anything checked in
 // from the original seed is builtin by definition, so that default is safe.
-const normalized = entries.map((e) => ({
-  url: e.url,
-  status: e.status,
-  version: e.version,
-  name: e.name,
-  internalName: e.internalName,
-  type: e.type === 'custom' ? 'custom' : 'builtin',
-}));
+// An entry we could not check is written back byte-for-byte: rebuilding it from
+// a fixed key list would drop whichever field was malformed (JSON.stringify
+// omits undefined), quietly destroying data a human still needs to repair.
+const checked = new Set(checkable);
+const normalized = entries.map((e) =>
+  checked.has(e)
+    ? {
+        url: e.url,
+        status: e.status,
+        version: e.version,
+        name: e.name,
+        internalName: e.internalName,
+        type: e.type === 'custom' ? 'custom' : 'builtin',
+      }
+    : e,
+);
 
 console.log(`\n${changes.length} change(s)`);
 for (const c of changes) console.log(`  - ${c}`);
@@ -222,9 +296,14 @@ if (changes.length && !DRY_RUN) {
 }
 
 if (process.env.GITHUB_OUTPUT) {
-  await appendFile(process.env.GITHUB_OUTPUT, `changed=${changes.length > 0}\n`);
+  // Strip anything that could break out of the `key=value` line format. The
+  // summary carries hostnames harvested from third-party redirects, so it is
+  // not trusted input.
+  const summary = (changes.slice(0, 10).join('; ') || 'no changes')
+    .replace(/[\r\n]+/g, ' ')
+    .slice(0, 900);
   await appendFile(
     process.env.GITHUB_OUTPUT,
-    `summary=${changes.slice(0, 10).join('; ') || 'no changes'}\n`,
+    `changed=${changes.length > 0}\nsummary=${summary}\n`,
   );
 }
