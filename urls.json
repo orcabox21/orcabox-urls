@@ -406,5 +406,37 @@
     "name": "movibox",
     "internalName": "movibox",
     "type": "builtin"
+  },
+  {
+    "url": "https://new3.gdflix.io",
+    "status": 1,
+    "version": 1,
+    "name": "gdflix",
+    "internalName": "gdflix",
+    "type": "builtin"
+  },
+  {
+    "url": "https://vcloud.fit",
+    "status": 1,
+    "version": 1,
+    "name": "vcloud",
+    "internalName": "vcloud",
+    "type": "builtin"
+  },
+  {
+    "url": "https://hubdrive.tips",
+    "status": 1,
+    "version": 1,
+    "name": "hubdrive",
+    "internalName": "hubdrive",
+    "type": "builtin"
+  },
+  {
+    "url": "https://driveseed.org",
+    "status": 1,
+    "version": 1,
+    "name": "driveseed",
+    "internalName": "driveseed",
+    "type": "builtin"
   }
 ]
