@@ -64,9 +64,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://hdmovie2a.sbs",
+    "url": "https://hdmovie2a.live",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "hdmovie2",
     "internalName": "hdmovie2",
     "type": "builtin"
@@ -281,7 +281,7 @@
   },
   {
     "url": "https://coflix.esq",
-    "status": 0,
+    "status": 1,
     "version": 1,
     "name": "coflix",
     "internalName": "coflix",
