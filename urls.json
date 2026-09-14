@@ -1,8 +1,8 @@
 [
   {
-    "url": "https://new3.moviesdrive.christmas",
+    "url": "https://new4.moviesdrive.christmas",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "moviesdrive",
     "internalName": "moviesdrive",
     "type": "builtin"
@@ -176,9 +176,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://hubcloud.cx",
+    "url": "https://hubcloud.ist",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "hubcloud",
     "internalName": "hubcloud",
     "type": "builtin"
@@ -424,9 +424,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://hubdrive.tips",
+    "url": "https://hubdrive.sbs",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "hubdrive",
     "internalName": "hubdrive",
     "type": "builtin"
