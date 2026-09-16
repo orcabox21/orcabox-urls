@@ -1,0 +1,442 @@
+[
+  {
+    "url": "https://new4.moviesdrive.christmas",
+    "status": 1,
+    "version": 2,
+    "name": "moviesdrive",
+    "internalName": "moviesdrive",
+    "type": "builtin"
+  },
+  {
+    "url": "https://new5.hdhub4u.cl",
+    "status": 1,
+    "version": 1,
+    "name": "HDHUB4u",
+    "internalName": "HDHUB4u",
+    "type": "builtin"
+  },
+  {
+    "url": "https://4khdhub.one",
+    "status": 1,
+    "version": 1,
+    "name": "4khdhub",
+    "internalName": "4khdhub",
+    "type": "builtin"
+  },
+  {
+    "url": "https://multimovies.casa",
+    "status": 1,
+    "version": 2,
+    "name": "MultiMovies",
+    "internalName": "MultiMovies",
+    "type": "builtin"
+  },
+  {
+    "url": "https://bollyflix.af",
+    "status": 1,
+    "version": 1,
+    "name": "bollyflix",
+    "internalName": "bollyflix",
+    "type": "builtin"
+  },
+  {
+    "url": "https://uhdmovies.my",
+    "status": 1,
+    "version": 2,
+    "name": "UHDMovies",
+    "internalName": "UHDMovies",
+    "type": "builtin"
+  },
+  {
+    "url": "https://moviesmod.army",
+    "status": 1,
+    "version": 1,
+    "name": "moviesmod",
+    "internalName": "moviesmod",
+    "type": "builtin"
+  },
+  {
+    "url": "https://moviesleech.bar",
+    "status": 1,
+    "version": 1,
+    "name": "topMovies",
+    "internalName": "topMovies",
+    "type": "builtin"
+  },
+  {
+    "url": "https://hdmovie2a.live",
+    "status": 1,
+    "version": 2,
+    "name": "hdmovie2",
+    "internalName": "hdmovie2",
+    "type": "builtin"
+  },
+  {
+    "url": "https://new2.vegamovies.futbol",
+    "status": 1,
+    "version": 2,
+    "name": "vegamovies",
+    "internalName": "vegamovies",
+    "type": "builtin"
+  },
+  {
+    "url": "https://rogmovies.onl",
+    "status": 1,
+    "version": 1,
+    "name": "rogmovies",
+    "internalName": "rogmovies",
+    "type": "builtin"
+  },
+  {
+    "url": "https://luxmovies1.shop",
+    "status": 0,
+    "version": 1,
+    "name": "luxmovies",
+    "internalName": "luxmovies",
+    "type": "builtin"
+  },
+  {
+    "url": "https://123movies9.run",
+    "status": 1,
+    "version": 1,
+    "name": "movierulzhd",
+    "internalName": "movierulzhd",
+    "type": "builtin"
+  },
+  {
+    "url": "https://extramovies.actor",
+    "status": 1,
+    "version": 2,
+    "name": "extramovies",
+    "internalName": "extramovies",
+    "type": "builtin"
+  },
+  {
+    "url": "https://banglaplex.biz",
+    "status": 1,
+    "version": 2,
+    "name": "banglaplex",
+    "internalName": "banglaplex",
+    "type": "builtin"
+  },
+  {
+    "url": "https://toon-stream.site",
+    "status": 1,
+    "version": 1,
+    "name": "toonstream",
+    "internalName": "toonstream",
+    "type": "builtin"
+  },
+  {
+    "url": "https://telugumv.net",
+    "status": 1,
+    "version": 1,
+    "name": "telugumv",
+    "internalName": "telugumv",
+    "type": "builtin"
+  },
+  {
+    "url": "https://filmycab.us",
+    "status": 1,
+    "version": 1,
+    "name": "filmycab",
+    "internalName": "filmycab",
+    "type": "builtin"
+  },
+  {
+    "url": "https://tellyhd.beer",
+    "status": 1,
+    "version": 3,
+    "name": "tellyhd",
+    "internalName": "tellyhd",
+    "type": "builtin"
+  },
+  {
+    "url": "https://filmyfly.io",
+    "status": 1,
+    "version": 1,
+    "name": "filmyfiy",
+    "internalName": "filmyfiy",
+    "type": "builtin"
+  },
+  {
+    "url": "https://hindmovie.fit",
+    "status": 1,
+    "version": 1,
+    "name": "hindmoviez",
+    "internalName": "hindmoviez",
+    "type": "builtin"
+  },
+  {
+    "url": "https://www.1tamilblasters.tech",
+    "status": 0,
+    "version": 1,
+    "name": "tamilblasters",
+    "internalName": "tamilblasters",
+    "type": "builtin"
+  },
+  {
+    "url": "https://hubcloud.ist",
+    "status": 1,
+    "version": 2,
+    "name": "hubcloud",
+    "internalName": "hubcloud",
+    "type": "builtin"
+  },
+  {
+    "url": "https://movienestbd.best",
+    "status": 1,
+    "version": 2,
+    "name": "movienestbd",
+    "internalName": "movienestbd",
+    "type": "builtin"
+  },
+  {
+    "url": "https://movies4u.kg",
+    "status": 1,
+    "version": 2,
+    "name": "movies4u",
+    "internalName": "movies4u",
+    "type": "builtin"
+  },
+  {
+    "url": "https://cinevood.bingo",
+    "status": 1,
+    "version": 2,
+    "name": "cinevood",
+    "internalName": "cinevood",
+    "type": "builtin"
+  },
+  {
+    "url": "https://dudefilms.stream",
+    "status": 1,
+    "version": 2,
+    "name": "dudefilms",
+    "internalName": "dudefilms",
+    "type": "builtin"
+  },
+  {
+    "url": "https://fibwatch.art",
+    "status": 1,
+    "version": 1,
+    "name": "fibwatch",
+    "internalName": "fibwatch",
+    "type": "builtin"
+  },
+  {
+    "url": "https://fibtoon.top",
+    "status": 1,
+    "version": 1,
+    "name": "fibtoon",
+    "internalName": "fibtoon",
+    "type": "builtin"
+  },
+  {
+    "url": "https://fibdrama.top",
+    "status": 1,
+    "version": 1,
+    "name": "fibdrama",
+    "internalName": "fibdrama",
+    "type": "builtin"
+  },
+  {
+    "url": "https://xprimehub.pics",
+    "status": 1,
+    "version": 1,
+    "name": "xprimehub",
+    "internalName": "xprimehub",
+    "type": "builtin"
+  },
+  {
+    "url": "https://ww4.m4ufree.lat",
+    "status": 1,
+    "version": 1,
+    "name": "m4ufree",
+    "internalName": "m4ufree",
+    "type": "builtin"
+  },
+  {
+    "url": "https://pencurimoviesubmalay26.site",
+    "status": 1,
+    "version": 1,
+    "name": "pencurimoviesubmalay",
+    "internalName": "pencurimoviesubmalay",
+    "type": "builtin"
+  },
+  {
+    "url": "https://new2.zinkmovies.mobi",
+    "status": 1,
+    "version": 1,
+    "name": "zinkmovies",
+    "internalName": "zinkmovies",
+    "type": "builtin"
+  },
+  {
+    "url": "https://cinefreak.nl",
+    "status": 0,
+    "version": 1,
+    "name": "cinefreak",
+    "internalName": "cinefreak",
+    "type": "builtin"
+  },
+  {
+    "url": "https://coflix.esq",
+    "status": 1,
+    "version": 1,
+    "name": "coflix",
+    "internalName": "coflix",
+    "type": "builtin"
+  },
+  {
+    "url": "https://yify-yify.com",
+    "status": 1,
+    "version": 2,
+    "name": "yify-official",
+    "internalName": "yify-official",
+    "type": "builtin"
+  },
+  {
+    "url": "https://uflix.cc",
+    "status": 1,
+    "version": 1,
+    "name": "uflix",
+    "internalName": "uflix",
+    "type": "builtin"
+  },
+  {
+    "url": "https://www4.thepiratebay3.co",
+    "status": 1,
+    "version": 1,
+    "name": "thepiratebay3",
+    "internalName": "thepiratebay3",
+    "type": "builtin"
+  },
+  {
+    "url": "https://1desiremovies.cymru",
+    "status": 1,
+    "version": 2,
+    "name": "1desiremovies",
+    "internalName": "1desiremovies",
+    "type": "builtin"
+  },
+  {
+    "url": "https://mapple.rip",
+    "status": 1,
+    "version": 1,
+    "name": "mapple",
+    "internalName": "mapple",
+    "type": "builtin"
+  },
+  {
+    "url": "https://www.1flex.org",
+    "status": 1,
+    "version": 1,
+    "name": "1flex",
+    "internalName": "1flex",
+    "type": "builtin"
+  },
+  {
+    "url": "https://vegamoviess.foo",
+    "status": 1,
+    "version": 2,
+    "name": "vegamoviess",
+    "internalName": "vegamoviess",
+    "type": "builtin"
+  },
+  {
+    "url": "https://deepwebnest.com",
+    "status": 1,
+    "version": 1,
+    "name": "deepwebnest",
+    "internalName": "deepwebnest",
+    "type": "builtin"
+  },
+  {
+    "url": "https://movie-box.co",
+    "status": 1,
+    "version": 1,
+    "name": "movie-box",
+    "internalName": "movie-box",
+    "type": "builtin"
+  },
+  {
+    "url": "https://net27.cc",
+    "status": 1,
+    "version": 1,
+    "name": "net27",
+    "internalName": "net27",
+    "type": "builtin"
+  },
+  {
+    "url": "https://www.mp4moviez.direct",
+    "status": 1,
+    "version": 3,
+    "name": "mp4moviez",
+    "internalName": "mp4moviez",
+    "type": "builtin"
+  },
+  {
+    "url": "https://www.filmywap.bet",
+    "status": 1,
+    "version": 2,
+    "name": "filmywap",
+    "internalName": "filmywap",
+    "type": "builtin"
+  },
+  {
+    "url": "https://www.coolmoviez.surf",
+    "status": 1,
+    "version": 3,
+    "name": "coolmoviez",
+    "internalName": "coolmoviez",
+    "type": "builtin"
+  },
+  {
+    "url": "https://animedekho.app",
+    "status": 1,
+    "version": 1,
+    "name": "animedekho",
+    "internalName": "animedekho",
+    "type": "builtin"
+  },
+  {
+    "url": "https://movibox.net",
+    "status": 1,
+    "version": 1,
+    "name": "movibox",
+    "internalName": "movibox",
+    "type": "builtin"
+  },
+  {
+    "url": "https://new3.gdflix.io",
+    "status": 1,
+    "version": 1,
+    "name": "gdflix",
+    "internalName": "gdflix",
+    "type": "builtin"
+  },
+  {
+    "url": "https://vcloud.fit",
+    "status": 1,
+    "version": 1,
+    "name": "vcloud",
+    "internalName": "vcloud",
+    "type": "builtin"
+  },
+  {
+    "url": "https://hubdrive.pics",
+    "status": 1,
+    "version": 3,
+    "name": "hubdrive",
+    "internalName": "hubdrive",
+    "type": "builtin"
+  },
+  {
+    "url": "https://driveseed.org",
+    "status": 1,
+    "version": 1,
+    "name": "driveseed",
+    "internalName": "driveseed",
+    "type": "builtin"
+  }
+]
