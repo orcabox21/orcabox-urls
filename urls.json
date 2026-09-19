@@ -8,9 +8,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://new5.hdhub4u.cl",
+    "url": "https://new6.hdhub4u.cl",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "HDHUB4u",
     "internalName": "HDHUB4u",
     "type": "builtin"
@@ -200,9 +200,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://cinevood.bingo",
+    "url": "https://cinevood.rocks",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "cinevood",
     "internalName": "cinevood",
     "type": "builtin"
