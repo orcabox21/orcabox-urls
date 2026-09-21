@@ -72,9 +72,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://new2.vegamovies.futbol",
+    "url": "https://vegamovies.gallery",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "vegamovies",
     "internalName": "vegamovies",
     "type": "builtin"
@@ -160,9 +160,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://hindmovie.fit",
+    "url": "https://hindmovie.dev",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "hindmoviez",
     "internalName": "hindmoviez",
     "type": "builtin"
