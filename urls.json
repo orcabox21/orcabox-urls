@@ -120,9 +120,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://toon-stream.site",
+    "url": "https://toonstream.us",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "toonstream",
     "internalName": "toonstream",
     "type": "builtin"
