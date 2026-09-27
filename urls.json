@@ -153,7 +153,7 @@
   },
   {
     "url": "https://filmyfly.io",
-    "status": 0,
+    "status": 1,
     "version": 1,
     "name": "filmyfiy",
     "internalName": "filmyfiy",
@@ -208,9 +208,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://dudefilms.stream",
+    "url": "https://dudefilms.date",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "dudefilms",
     "internalName": "dudefilms",
     "type": "builtin"
