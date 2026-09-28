@@ -80,9 +80,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://n1.rogmovies.best",
+    "url": "https://rogmovies.best",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "rogmovies",
     "internalName": "rogmovies",
     "type": "builtin"
