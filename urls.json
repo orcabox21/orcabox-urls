@@ -1,8 +1,8 @@
 [
   {
-    "url": "https://new4.moviesdrive.christmas",
+    "url": "https://new5.moviesdrive.christmas",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "moviesdrive",
     "internalName": "moviesdrive",
     "type": "builtin"
@@ -32,9 +32,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://bollyflix.af",
+    "url": "https://new.bollyflix.vote",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "bollyflix",
     "internalName": "bollyflix",
     "type": "builtin"
@@ -336,9 +336,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://vegamoviess.mobi",
+    "url": "https://vegamoviess.io",
     "status": 1,
-    "version": 3,
+    "version": 4,
     "name": "vegamoviess",
     "internalName": "vegamoviess",
     "type": "builtin"
@@ -385,7 +385,7 @@
   },
   {
     "url": "https://www.coolmoviez.surf",
-    "status": 1,
+    "status": 0,
     "version": 3,
     "name": "coolmoviez",
     "internalName": "coolmoviez",
