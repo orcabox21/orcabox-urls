@@ -8,9 +8,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://new6.hdhub4u.cl",
+    "url": "https://new1.hdhub4u.free",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "HDHUB4u",
     "internalName": "HDHUB4u",
     "type": "builtin"
@@ -312,9 +312,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://1desiremovies.cymru",
+    "url": "https://1desiremovies.rodeo",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "1desiremovies",
     "internalName": "1desiremovies",
     "type": "builtin"
