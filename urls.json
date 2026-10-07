@@ -1,16 +1,16 @@
 [
   {
-    "url": "https://new5.moviesdrive.christmas",
+    "url": "https://new1.moviesdrive.beer",
     "status": 1,
-    "version": 3,
+    "version": 4,
     "name": "moviesdrive",
     "internalName": "moviesdrive",
     "type": "builtin"
   },
   {
-    "url": "https://new1.hdhub4u.free",
+    "url": "https://new2.hdhub4u.free",
     "status": 1,
-    "version": 3,
+    "version": 4,
     "name": "HDHUB4u",
     "internalName": "HDHUB4u",
     "type": "builtin"
@@ -25,7 +25,7 @@
   },
   {
     "url": "https://multimovies.casa",
-    "status": 1,
+    "status": 0,
     "version": 2,
     "name": "MultiMovies",
     "internalName": "MultiMovies",
@@ -80,9 +80,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://rogmovies.best",
+    "url": "https://rogmovies.wtf",
     "status": 1,
-    "version": 3,
+    "version": 4,
     "name": "rogmovies",
     "internalName": "rogmovies",
     "type": "builtin"
