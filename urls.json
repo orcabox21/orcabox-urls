@@ -129,7 +129,7 @@
   },
   {
     "url": "https://telugumv.net",
-    "status": 1,
+    "status": 0,
     "version": 1,
     "name": "telugumv",
     "internalName": "telugumv",
@@ -201,7 +201,7 @@
   },
   {
     "url": "https://new1.cinevood.cv",
-    "status": 1,
+    "status": 0,
     "version": 4,
     "name": "cinevood",
     "internalName": "cinevood",
@@ -368,17 +368,17 @@
     "type": "builtin"
   },
   {
-    "url": "https://mp4moviez.si",
+    "url": "https://www.mp4moviez.locker",
     "status": 1,
-    "version": 7,
+    "version": 8,
     "name": "mp4moviez",
     "internalName": "mp4moviez",
     "type": "builtin"
   },
   {
-    "url": "https://www.filmywap.ventures",
+    "url": "https://www.filmywap.exchange",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "filmywap",
     "internalName": "filmywap",
     "type": "builtin"
