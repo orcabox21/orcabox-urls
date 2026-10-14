@@ -1,16 +1,16 @@
 [
   {
-    "url": "https://new1.moviesdrive.beer",
+    "url": "https://new2.moviesdrive.beer",
     "status": 1,
-    "version": 4,
+    "version": 5,
     "name": "moviesdrive",
     "internalName": "moviesdrive",
     "type": "builtin"
   },
   {
-    "url": "https://new3.hdhub4u.free",
+    "url": "https://new7.hdhub4u.cl",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "HDHUB4u",
     "internalName": "HDHUB4u",
     "type": "builtin"
@@ -136,9 +136,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://filmycab.us",
+    "url": "https://filmycab.one",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "filmycab",
     "internalName": "filmycab",
     "type": "builtin"
@@ -376,9 +376,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://www.filmywap.exchange",
+    "url": "https://www.filmywap.si",
     "status": 1,
-    "version": 6,
+    "version": 7,
     "name": "filmywap",
     "internalName": "filmywap",
     "type": "builtin"
