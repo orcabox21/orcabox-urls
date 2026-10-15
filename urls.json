@@ -304,9 +304,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://www4.thepiratebay3.co",
+    "url": "https://www5.thepiratebay3.co",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "thepiratebay3",
     "internalName": "thepiratebay3",
     "type": "builtin"
@@ -368,9 +368,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://www.mp4moviez.locker",
+    "url": "https://www.mp4moviez.art",
     "status": 1,
-    "version": 8,
+    "version": 9,
     "name": "mp4moviez",
     "internalName": "mp4moviez",
     "type": "builtin"
