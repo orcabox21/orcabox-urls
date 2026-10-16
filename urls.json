@@ -64,9 +64,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://hdmovie2a.cloud",
+    "url": "https://hdmovie2a.one",
     "status": 1,
-    "version": 6,
+    "version": 7,
     "name": "hdmovie2",
     "internalName": "hdmovie2",
     "type": "builtin"
@@ -208,9 +208,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://dudefilms.date",
+    "url": "https://dudefilms.events",
     "status": 1,
-    "version": 3,
+    "version": 4,
     "name": "dudefilms",
     "internalName": "dudefilms",
     "type": "builtin"
@@ -393,7 +393,7 @@
   },
   {
     "url": "https://animedekho.app",
-    "status": 1,
+    "status": 0,
     "version": 1,
     "name": "animedekho",
     "internalName": "animedekho",
