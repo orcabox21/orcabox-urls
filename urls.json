@@ -1,8 +1,8 @@
 [
   {
-    "url": "https://new2.moviesdrive.beer",
+    "url": "https://new3.moviesdrive.beer",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "moviesdrive",
     "internalName": "moviesdrive",
     "type": "builtin"
@@ -40,9 +40,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://uhdmovies.my",
+    "url": "https://uhdmovies.us.org",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "UHDMovies",
     "internalName": "UHDMovies",
     "type": "builtin"
@@ -136,9 +136,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://filmycab.one",
+    "url": "https://filmycab.store",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "filmycab",
     "internalName": "filmycab",
     "type": "builtin"
@@ -160,9 +160,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://hindmovie.dev",
+    "url": "https://hindmovie.one",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "name": "hindmoviez",
     "internalName": "hindmoviez",
     "type": "builtin"
