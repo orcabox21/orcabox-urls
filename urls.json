@@ -72,9 +72,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://1vegamovies.baby",
+    "url": "https://1vegamovies.pics",
     "status": 1,
-    "version": 4,
+    "version": 5,
     "name": "vegamovies",
     "internalName": "vegamovies",
     "type": "builtin"
@@ -200,9 +200,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://new1.cinevood.cv",
-    "status": 0,
-    "version": 4,
+    "url": "https://new1.cinevood.capital",
+    "status": 1,
+    "version": 5,
     "name": "cinevood",
     "internalName": "cinevood",
     "type": "builtin"
@@ -377,7 +377,7 @@
   },
   {
     "url": "https://www.filmywap.si",
-    "status": 1,
+    "status": 0,
     "version": 7,
     "name": "filmywap",
     "internalName": "filmywap",
@@ -424,9 +424,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://hubdrive.pics",
+    "url": "https://hubdrive.bar",
     "status": 1,
-    "version": 3,
+    "version": 4,
     "name": "hubdrive",
     "internalName": "hubdrive",
     "type": "builtin"
