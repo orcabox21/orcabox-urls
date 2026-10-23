@@ -312,9 +312,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://1desiremovies.eu",
+    "url": "https://1desiremovies.channel",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "1desiremovies",
     "internalName": "1desiremovies",
     "type": "builtin"
@@ -368,9 +368,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://www.mp4moviez.art",
+    "url": "https://www.mp4moviez.channel",
     "status": 1,
-    "version": 9,
+    "version": 10,
     "name": "mp4moviez",
     "internalName": "mp4moviez",
     "type": "builtin"
