@@ -336,9 +336,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://vegamoviess.build",
-    "status": 0,
-    "version": 6,
+    "url": "https://vegamoviess.actor",
+    "status": 1,
+    "version": 7,
     "name": "vegamoviess",
     "internalName": "vegamoviess",
     "type": "builtin"
