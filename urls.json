@@ -1,16 +1,16 @@
 [
   {
-    "url": "https://new4.moviesdrive.beer",
+    "url": "https://new5.moviesdrive.beer",
     "status": 1,
-    "version": 7,
+    "version": 8,
     "name": "moviesdrive",
     "internalName": "moviesdrive",
     "type": "builtin"
   },
   {
-    "url": "https://new9.hdhub4u.cl",
+    "url": "https://new10.hdhub4u.cl",
     "status": 1,
-    "version": 8,
+    "version": 9,
     "name": "HDHUB4u",
     "internalName": "HDHUB4u",
     "type": "builtin"
