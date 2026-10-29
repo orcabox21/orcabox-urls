@@ -1,8 +1,8 @@
 [
   {
-    "url": "https://new5.moviesdrive.beer",
+    "url": "https://new1.moviesdrive.cyou",
     "status": 1,
-    "version": 8,
+    "version": 9,
     "name": "moviesdrive",
     "internalName": "moviesdrive",
     "type": "builtin"
@@ -144,9 +144,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://tellyhd.st",
+    "url": "https://tellyhd.si",
     "status": 1,
-    "version": 6,
+    "version": 7,
     "name": "tellyhd",
     "internalName": "tellyhd",
     "type": "builtin"
@@ -336,9 +336,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://vegamoviess.actor",
+    "url": "https://vegamoviess.army",
     "status": 1,
-    "version": 7,
+    "version": 8,
     "name": "vegamoviess",
     "internalName": "vegamoviess",
     "type": "builtin"
