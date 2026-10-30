@@ -32,9 +32,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://bollyflix.co.za",
+    "url": "https://bollyflix.church",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "bollyflix",
     "internalName": "bollyflix",
     "type": "builtin"
@@ -152,9 +152,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://filmyfly.io",
+    "url": "https://filmyfly.ad",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "filmyfiy",
     "internalName": "filmyfiy",
     "type": "builtin"
@@ -200,17 +200,17 @@
     "type": "builtin"
   },
   {
-    "url": "https://new3.cinevood.capital",
+    "url": "https://new4.cinevood.capital",
     "status": 1,
-    "version": 7,
+    "version": 8,
     "name": "cinevood",
     "internalName": "cinevood",
     "type": "builtin"
   },
   {
-    "url": "https://dudefilms.red",
+    "url": "https://dudefilms.surf",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "dudefilms",
     "internalName": "dudefilms",
     "type": "builtin"
@@ -337,7 +337,7 @@
   },
   {
     "url": "https://vegamoviess.army",
-    "status": 1,
+    "status": 0,
     "version": 8,
     "name": "vegamoviess",
     "internalName": "vegamoviess",
