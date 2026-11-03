@@ -72,9 +72,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://new1.vegamovies.lease",
+    "url": "https://vegamovies.lease",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "vegamovies",
     "internalName": "vegamovies",
     "type": "builtin"
@@ -144,9 +144,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://tellyhd.si",
+    "url": "https://tellyhd.eu",
     "status": 1,
-    "version": 7,
+    "version": 8,
     "name": "tellyhd",
     "internalName": "tellyhd",
     "type": "builtin"
@@ -336,9 +336,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://vegamoviess.army",
-    "status": 0,
-    "version": 8,
+    "url": "https://thevegamoviess.co.in",
+    "status": 1,
+    "version": 9,
     "name": "vegamoviess",
     "internalName": "vegamoviess",
     "type": "builtin"
@@ -368,9 +368,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://www.mp4moviez.chat",
+    "url": "https://www.mp4moviez.cymru",
     "status": 1,
-    "version": 12,
+    "version": 13,
     "name": "mp4moviez",
     "internalName": "mp4moviez",
     "type": "builtin"
