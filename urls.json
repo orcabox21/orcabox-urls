@@ -1,8 +1,8 @@
 [
   {
-    "url": "https://new1.moviesdrive.cyou",
+    "url": "https://new2.moviesdrive.cyou",
     "status": 1,
-    "version": 9,
+    "version": 10,
     "name": "moviesdrive",
     "internalName": "moviesdrive",
     "type": "builtin"
@@ -336,9 +336,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://vegamovies6.co.in",
+    "url": "https://vegamovies7.co.in",
     "status": 1,
-    "version": 14,
+    "version": 15,
     "name": "vegamoviess",
     "internalName": "vegamoviess",
     "type": "builtin"
