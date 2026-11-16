@@ -80,9 +80,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://rogmovies.autos",
+    "url": "https://rogmovies.cyou",
     "status": 1,
-    "version": 8,
+    "version": 9,
     "name": "rogmovies",
     "internalName": "rogmovies",
     "type": "builtin"
@@ -336,9 +336,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://vegamovies13.co.in",
+    "url": "https://vegamovies14.co.in",
     "status": 1,
-    "version": 21,
+    "version": 22,
     "name": "vegamoviess",
     "internalName": "vegamoviess",
     "type": "builtin"
@@ -368,9 +368,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://www.mp4moviez.ryukyu",
+    "url": "https://www.mp4moviez.travel",
     "status": 1,
-    "version": 15,
+    "version": 16,
     "name": "mp4moviez",
     "internalName": "mp4moviez",
     "type": "builtin"
