@@ -8,9 +8,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://new14.hdhub4u.cl",
+    "url": "https://new15.hdhub4u.cl",
     "status": 1,
-    "version": 13,
+    "version": 14,
     "name": "HDHUB4u",
     "internalName": "HDHUB4u",
     "type": "builtin"
@@ -72,9 +72,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://vegamovies.lease",
+    "url": "https://vegamovies.latino",
     "status": 1,
-    "version": 6,
+    "version": 7,
     "name": "vegamovies",
     "internalName": "vegamovies",
     "type": "builtin"
@@ -336,9 +336,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://vegamovies16.co.in",
+    "url": "https://vegamovies17.co.in",
     "status": 1,
-    "version": 24,
+    "version": 25,
     "name": "vegamoviess",
     "internalName": "vegamoviess",
     "type": "builtin"
