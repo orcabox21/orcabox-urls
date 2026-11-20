@@ -1,8 +1,8 @@
 [
   {
-    "url": "https://new3.moviesdrive.cyou",
+    "url": "https://new4.moviesdrive.cyou",
     "status": 1,
-    "version": 11,
+    "version": 12,
     "name": "moviesdrive",
     "internalName": "moviesdrive",
     "type": "builtin"
@@ -144,9 +144,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://tellyhd.at",
+    "url": "https://tellyhd.hk",
     "status": 1,
-    "version": 9,
+    "version": 10,
     "name": "tellyhd",
     "internalName": "tellyhd",
     "type": "builtin"
@@ -160,9 +160,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://hindmovie.dad",
+    "url": "https://hindmovie.vin",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "hindmoviez",
     "internalName": "hindmoviez",
     "type": "builtin"
@@ -368,9 +368,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://www.mp4moviez.boo",
+    "url": "https://www.mp4moviez.gratis",
     "status": 1,
-    "version": 18,
+    "version": 19,
     "name": "mp4moviez",
     "internalName": "mp4moviez",
     "type": "builtin"
