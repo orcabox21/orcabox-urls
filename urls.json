@@ -80,9 +80,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://rogmovies.cyou",
+    "url": "https://rogmovies.beauty",
     "status": 1,
-    "version": 9,
+    "version": 10,
     "name": "rogmovies",
     "internalName": "rogmovies",
     "type": "builtin"
@@ -208,9 +208,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://new2.dudefilms.church",
+    "url": "https://dudefilms.tours",
     "status": 1,
-    "version": 8,
+    "version": 9,
     "name": "dudefilms",
     "internalName": "dudefilms",
     "type": "builtin"
