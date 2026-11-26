@@ -1,16 +1,16 @@
 [
   {
-    "url": "https://new4.moviesdrive.cyou",
+    "url": "https://new5.moviesdrive.cyou",
     "status": 1,
-    "version": 12,
+    "version": 13,
     "name": "moviesdrive",
     "internalName": "moviesdrive",
     "type": "builtin"
   },
   {
-    "url": "https://new16.hdhub4u.cl",
+    "url": "https://new17.hdhub4u.cl",
     "status": 1,
-    "version": 15,
+    "version": 16,
     "name": "HDHUB4u",
     "internalName": "HDHUB4u",
     "type": "builtin"
@@ -336,9 +336,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://vegamovies17.co.in",
+    "url": "https://vegamovies19.co.in",
     "status": 1,
-    "version": 25,
+    "version": 26,
     "name": "vegamoviess",
     "internalName": "vegamoviess",
     "type": "builtin"
@@ -368,9 +368,9 @@
     "type": "builtin"
   },
   {
-    "url": "https://www.mp4moviez11.com",
+    "url": "https://www.mp4moviez11.net",
     "status": 1,
-    "version": 20,
+    "version": 21,
     "name": "mp4moviez",
     "internalName": "mp4moviez",
     "type": "builtin"
